@@ -17,8 +17,11 @@ The polling and survey application form project entails the creation of a compre
 Project Goals:
 
 1.User-Friendly Interface: Develop an intuitive and easy-to-use interface for both creating and participating in polls/surveys, ensuring a positive user experience.
+
 2.Customization: Enable users to customize polls/surveys with various question types, formatting options, and branding elements to meet their specific needs and preferences.
+
 3.Efficient Distribution: Implement multiple distribution channels such as email, social media, and direct links to enable users to reach a wide audience effectively.
+
 4.Accurate Response Collection: Ensure accurate and organized collection of responses from participants, maintaining data integrity and reliability.
 
 
