@@ -11,7 +11,7 @@ Team members:
 2310990726 Email id: lovisha0726.be23@chitkara.edu.in Role: The manager orchestrates the polling and survey application project, overseeing timelines and resource allocation. With a focus on efficiency and quality, the manager guide the team towards delivering a robust, user-friendly application within set parameters.
 Project overview:
 
-The polling and survey application form project entails the creation of a comprehensive platform facilitating the seamless creation, distribution, and analysis of polls and surveys. Designed to cater to diverse needs such as market research, opinion gathering, and data collection. In our project polling and survey application for clothing selection simplifies the process of selecting and reviewing items.The application also include review functionality, allowing users to confirm their selections before submitting the form. The goal is to provide a streamlined and efficient shopping experience, making it easy for users to select and review their chosen items.
+The polling and survey application form project entails the creation of a comprehensive platform facilitating the seamless creation, distribution, and analysis of polls and surveys. Designed to cater to diverse needs such as market research, opinion gathering, and data collection. In our project polling and survey application ,clothing selection simplifies the process of selecting and reviewing items.The application also include review functionality, allowing users to confirm their selections before submitting the form. The goal is to provide a streamlined and efficient shopping experience, making it easy for users to select and review their chosen items.
 
 Project Goals:
 
