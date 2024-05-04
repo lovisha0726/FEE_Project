@@ -1,4 +1,4 @@
-# SCM_Project
+# POLLING AND SURVEY APPLICATION FORM
 Team members:
 
 1.Manakpreet kaur- Lead Developer
