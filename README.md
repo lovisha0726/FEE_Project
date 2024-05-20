@@ -1,7 +1,7 @@
 # POLLING AND SURVEY APPLICATION FORM
 Team members:
 
-1.Manakpreet kaur- Lead Developer
+1.Manakpreet kaur-Developer
 2310990728 Email id: manakpreet0728.be23@chitkara.edu.in Role:To design and implement a user-friendly interface that collects user input efficiently. Creating forms with various input fields, such as text, radio buttons, and checkboxes, using HTML and Bootstrap's form components. Then we use CSS to style the form and make it visually appealing. Additionally, we also use JavaScript to add functionality to the form, such as validation and submission handling.
 
 2.Madhu-Tester
