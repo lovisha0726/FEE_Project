@@ -1,4 +1,4 @@
-# POLLING AND SURVEY APPLICATION FORM
+### POLLING AND SURVEY APPLICATION FORM
 Team members:
 
 1.Manakpreet kaur-Developer
@@ -30,7 +30,3 @@ In the first version of the polling and survey application, the primary focus is
 In the second version, JavaScript is introduced to enhance the functionality and interactivity of the application. This includes implementing dynamic features such as form validation, real-time updates, and interactive elements to improve the user experience and streamline the survey process.
 
 In the third version, Bootstrap is incorporated into the project to leverage its pre-designed components and responsive grid system, facilitating faster development and ensuring consistency across different devices and screen sizes. This version involves refactoring the existing codebase to utilize Bootstrap's CSS classes and JavaScript plugins, enhancing the overall aesthetic and usability of the application in a more formalized and structured manner.
-
-
-
-
